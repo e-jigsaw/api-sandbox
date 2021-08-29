@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "api-sandbox",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^18.9.1"
+  }
+}
